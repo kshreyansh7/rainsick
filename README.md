@@ -1,6 +1,4 @@
-from pathlib import Path
-
-readme = """# rainsick
+RAINSICK
 
 **Route-aware weather analysis for road journeys.**
 
